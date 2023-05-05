@@ -1,2 +1,4 @@
 <?php
-echo "myfile1";
+echo "myfile2";
+
+echo "new text myfile2";
